@@ -5,7 +5,7 @@
 [![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 <!-- badges: end -->
 
-The package provides a full genome assembly of *E. coli* str. K12, substr. MG1655. Data source [NCBI](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/) 
+The package provides a full genome assembly of *E. coli* str. K12, substr. MG1655. Data source: [NCBI](https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/005/845/GCF_000005845.2_ASM584v2/).
 
 ## Installation
 
