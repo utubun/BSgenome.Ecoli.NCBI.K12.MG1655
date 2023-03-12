@@ -2,8 +2,8 @@ Package: BSgenome.Ecoli.NCBI.K12.MG1655
 Title: Full genome of Escherichia coli str. K-12 substr. MG1655
 Description: Full genome sequence Escherichia coli str. K-12 substr. MG1655 provided by NCBI
 Version: 1.0.0
-Author: The Bioconductor Dev Team
-Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+Author: Dmytro Strunin <dmytro.strunin@gmail.com> [cre]
+Maintainer: Dmytro Strunin <dmytro.strunin@gmail.com>
 Depends: R (>= 3.5.0), BSgenome (>= 1.64.0)
 Imports: BSgenome
 Suggests: 
